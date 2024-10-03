@@ -4,11 +4,11 @@ This repository contains a simple implementation of common data structures in C+
 
 ## - Table of Contents
 
-- [Features](##Features)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Functions Documentation](##functions-documentation)
-- [How to Contribute](##how-to-contribute)
+- [Features](#--Features)
+- [Installation](#--installation)
+- [Usage](#--usage) 
+- [Functions Documentation](#--functions-documentation)
+- [How to Contribute](#--how-to-contribute)
 
 ## - Features
 
